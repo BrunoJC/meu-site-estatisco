@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.05326119.chunk.css",
-    "main.js": "/static/js/main.7d64e851.chunk.js",
-    "main.js.map": "/static/js/main.7d64e851.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3ef713f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3ef713f4.js.map",
-    "static/js/2.c3828e59.chunk.js": "/static/js/2.c3828e59.chunk.js",
-    "static/js/2.c3828e59.chunk.js.map": "/static/js/2.c3828e59.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.78ef4b87b834f555a1f0f6a10b9fa89f.js": "/precache-manifest.78ef4b87b834f555a1f0f6a10b9fa89f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.05326119.chunk.css.map": "/static/css/main.05326119.chunk.css.map",
-    "static/js/2.c3828e59.chunk.js.LICENSE.txt": "/static/js/2.c3828e59.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/meu-site-estatisco/static/css/main.05326119.chunk.css",
+    "main.js": "/meu-site-estatisco/static/js/main.9f54d06d.chunk.js",
+    "main.js.map": "/meu-site-estatisco/static/js/main.9f54d06d.chunk.js.map",
+    "runtime-main.js": "/meu-site-estatisco/static/js/runtime-main.e364b1bc.js",
+    "runtime-main.js.map": "/meu-site-estatisco/static/js/runtime-main.e364b1bc.js.map",
+    "static/js/2.63bdb547.chunk.js": "/meu-site-estatisco/static/js/2.63bdb547.chunk.js",
+    "static/js/2.63bdb547.chunk.js.map": "/meu-site-estatisco/static/js/2.63bdb547.chunk.js.map",
+    "index.html": "/meu-site-estatisco/index.html",
+    "precache-manifest.cec6334cfeb4b6075fab6faa8379d6a4.js": "/meu-site-estatisco/precache-manifest.cec6334cfeb4b6075fab6faa8379d6a4.js",
+    "service-worker.js": "/meu-site-estatisco/service-worker.js",
+    "static/css/main.05326119.chunk.css.map": "/meu-site-estatisco/static/css/main.05326119.chunk.css.map",
+    "static/js/2.63bdb547.chunk.js.LICENSE.txt": "/meu-site-estatisco/static/js/2.63bdb547.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/meu-site-estatisco/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ef713f4.js",
-    "static/js/2.c3828e59.chunk.js",
+    "static/js/runtime-main.e364b1bc.js",
+    "static/js/2.63bdb547.chunk.js",
     "static/css/main.05326119.chunk.css",
-    "static/js/main.7d64e851.chunk.js"
+    "static/js/main.9f54d06d.chunk.js"
   ]
 }
